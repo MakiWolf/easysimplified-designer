@@ -111,17 +111,17 @@
     <Compile Include="class\System.Design\System.Windows.Forms.Design\SplitContainerDesigner.cs" />
     <Compile Include="class\System.Design\System.Windows.Forms.Design\UISelectionService.cs" />
     <Compile Include="class\System.Design\System.Windows.Forms.Design\WndProcRouter.cs" />
-    <Compile Include="class\System\System.ComponentModel.Design.Serialization\ComponentSerializationService.cs" />
-    <Compile Include="class\System\System.ComponentModel.Design.Serialization\DefaultSerializationProviderAttribute.cs" />
-    <Compile Include="class\System\System.ComponentModel.Design.Serialization\MemberRelationship.cs" />
-    <Compile Include="class\System\System.ComponentModel.Design.Serialization\MemberRelationshipService.cs" />
-    <Compile Include="class\System\System.ComponentModel.Design.Serialization\SerializationStore.cs" />
-    <Compile Include="class\System\System.ComponentModel.Design\DesignerOptionService.cs" />
-    <Compile Include="class\System\System.ComponentModel.Design\IComponentInitializer.cs" />
-    <Compile Include="class\System\System.ComponentModel.Design\ITreeDesigner.cs" />
-    <Compile Include="class\System\System.ComponentModel\INestedContainer.cs" />
-    <Compile Include="class\System\System.ComponentModel\INestedSite.cs" />
-    <Compile Include="class\System\System.ComponentModel\NestedContainer.cs" />
+    <Compile Include="class\referencesource\System\compod\system\componentmodel\design\serialization\ComponentSerializationService.cs" />
+    <Compile Include="class\referencesource\System\compod\system\componentmodel\design\serialization\DefaultSerializationProviderAttribute.cs" />
+    <!--<Compile Include="class\referencesource\System\compod\system\componentmodel\design\serialization\MemberRelationship.cs" />-->
+    <Compile Include="class\referencesource\System\compod\system\componentmodel\design\serialization\MemberRelationshipService.cs" />
+    <Compile Include="class\referencesource\System\compod\system\componentmodel\design\serialization\SerializationStore.cs" />
+    <Compile Include="class\referencesource\System\compod\system\componentmodel\design\DesignerOptionService.cs" />
+    <Compile Include="class\referencesource\System\compod\system\componentmodel\design\IComponentInitializer.cs" />
+    <Compile Include="class\referencesource\System\compod\system\componentmodel\design\ITreeDesigner.cs" />
+    <Compile Include="class\referencesource\System\compod\system\componentmodel\INestedContainer.cs" />
+    <Compile Include="class\referencesource\System\compod\system\componentmodel\INestedSite.cs" />
+    <Compile Include="class\referencesource\System\compod\system\componentmodel\NestedContainer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />

@@ -52,21 +52,21 @@
 		<Folder Name="class">
 			<Folder Name="System">
 				<Folder Name="System.ComponentModel">
-					<F N="class/System/System.ComponentModel/INestedContainer.cs"/>
-					<F N="class/System/System.ComponentModel/INestedSite.cs"/>
-					<F N="class/System/System.ComponentModel/NestedContainer.cs"/>
+					<F N="class/referencesource/System/compmod/system/componentmodel/INestedContainer.cs"/>
+					<F N="class/referencesource/System/compmod/system/componentmodel/INestedSite.cs"/>
+					<F N="class/referencesource/System/compmod/system/componentmodel/NestedContainer.cs"/>
 				</Folder>
 				<Folder Name="System.ComponentModel.Design">
-					<F N="class/System/System.ComponentModel.Design/DesignerOptionService.cs"/>
-					<F N="class/System/System.ComponentModel.Design/IComponentInitializer.cs"/>
-					<F N="class/System/System.ComponentModel.Design/ITreeDesigner.cs"/>
+					<F N="class/referencesource/System/compmod/system/componentmodel/design/DesignerOptionService.cs"/>
+					<F N="class/referencesource/System/compmod/system/componentmodel/design/IComponentInitializer.cs"/>
+					<F N="class/referencesource/System/compmod/system/componentmodel/design/ITreeDesigner.cs"/>
 				</Folder>
 				<Folder Name="System.ComponentModel.Design.Serialization">
-					<F N="class/System/System.ComponentModel.Design.Serialization/ComponentSerializationService.cs"/>
-					<F N="class/System/System.ComponentModel.Design.Serialization/DefaultSerializationProviderAttribute.cs"/>
-					<F N="class/System/System.ComponentModel.Design.Serialization/MemberRelationship.cs"/>
-					<F N="class/System/System.ComponentModel.Design.Serialization/MemberRelationshipService.cs"/>
-					<F N="class/System/System.ComponentModel.Design.Serialization/SerializationStore.cs"/>
+					<F N="class/referencesource/System/compmod/system/componentmodel/design/serialization/ComponentSerializationService.cs"/>
+					<F N="class/referencesource/System/compmod/system/componentmodel/design/serialization/DefaultSerializationProviderAttribute.cs"/>
+					
+					<F N="class/referencesource/System/compmod/system/componentmodel/design/serialization/MemberRelationshipService.cs"/>
+					<F N="class/referencesource/System/compmod/system/componentmodel/design/serialization/SerializationStore.cs"/>
 				</Folder>
 			</Folder>
 			<Folder Name="System.Design">
