@@ -1,0 +1,8 @@
+C:\Users\Marku\source\repos\MakiWolf\mwf-designer\build\mwf-designer.exe
+C:\Users\Marku\source\repos\MakiWolf\mwf-designer\build\mwf-designer.pdb
+C:\Users\Marku\source\repos\MakiWolf\mwf-designer\build\ICSharpCode.NRefactory.dll
+C:\Users\Marku\source\repos\MakiWolf\mwf-designer\obj\Debug\mwf-designer.csproj.AssemblyReference.cache
+C:\Users\Marku\source\repos\MakiWolf\mwf-designer\obj\Debug\mwf-designer.csproj.CoreCompileInputs.cache
+C:\Users\Marku\source\repos\MakiWolf\mwf-designer\obj\Debug\mwf-designer.csproj.CopyComplete
+C:\Users\Marku\source\repos\MakiWolf\mwf-designer\obj\Debug\mwf-designer.exe
+C:\Users\Marku\source\repos\MakiWolf\mwf-designer\obj\Debug\mwf-designer.pdb
