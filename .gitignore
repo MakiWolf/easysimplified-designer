@@ -1,3 +1,9 @@
 build/
 deps/Mono.Design/.generated
 deps/Mono.Design/class/
+obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+obj/Debug/easysimplified-designer.csproj.FilesWrittenAbsolute.txt
+obj/Debug/easysimplified-designer.exe
+obj/Debug/easysimplified-designer.pdb
+obj/Debug/mwf_designer.MainView.resources
+obj/Debug/mwf_designer.src.UI.Formabout.resources
